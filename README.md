@@ -8,7 +8,7 @@
 
 <h2 align="center">Usage</h2>
 
-Browse to https://jimmyking2004.github.io/7z/ and configure your desired settings to build the command.
+Browse to https://jimmykingss.github.io/7z/ and configure your desired settings to build the command.
 
 <div align="center">
   <img src="http://i.imgur.com/dIFfkTY.png">
